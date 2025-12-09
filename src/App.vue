@@ -683,6 +683,9 @@
               Venkatesh Jatla
             </span>
             <span class="supporter">
+              Thomas Jensen
+            </span>
+            <span class="supporter">
               kmwallio
             </span>
             <span class="supporter">
